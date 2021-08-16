@@ -1,0 +1,47 @@
+body{
+    background-color:#56876D;
+}
+.jumbotron{
+    background-image:url(https://everydayfeminism.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-04-at-1.42.28-PM.png);
+    padding: 250px;
+    margin: 5px;
+}
+#heading{
+    font-family: 'Montserrat', sans-serif;
+    color:#A78A7F;
+    text-align: center;
+    font-weight: bolder;
+    border:double;
+    border-color: teal;
+    background-color: whitesmoke;
+}
+#paragraphOne{
+    font-family: 'Barlow', sans-serif;
+    font-size: larger;
+    color:black;
+    padding:20px;
+    margin:5px;
+}
+#paragraphTwo{
+    font-family: 'Barlow', sans-serif;
+    font-size: larger;
+    color:black;
+    padding:20px;
+    margin:5px;
+}
+.registerForm{
+    padding:75px;
+    margin:10px;
+}
+.navbar{
+    background-color: green;
+}
+#register{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color:#A78A7F;
+    font-weight: bolder;
+    border:double;
+    border-color: teal;
+    background-color: whitesmoke;
+}
