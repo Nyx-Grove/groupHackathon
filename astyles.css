@@ -32,6 +32,11 @@ body{
 .registerForm{
     padding:75px;
     margin:10px;
+    font-family: 'Barlow', sans-serif;
+    color:black;
+    font-weight: 600;
+    border: dotted;
+    border-color: green;
 }
 
 #register{
