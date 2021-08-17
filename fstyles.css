@@ -9,3 +9,11 @@ body{
 .container{
     padding: 30px;
 }
+
+.jumbotorn{
+    text-align: center;
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+}
